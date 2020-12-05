@@ -29,5 +29,6 @@ Eddie Ibarra
 <br />
 ✉Email me with any questions: eddieibarra43@gmail.com<br /><br />
 
-<a href="https://imgflip.com/gif/4p6oc3"><img src="https://imgflip.com/gif/4p6oc3.gif"/></a>
+
+CLICK [HERE] TO WATCH DEMO(https://imgflip.com/gif/4p6oc3)
     
