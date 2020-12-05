@@ -8,10 +8,20 @@
 - [Description](#description)
 - [License](#license)
 - [Contributing](#contributing)
+- [Installation](#installation)
+- [Credits](#credits)
+## Installation
+The application will be invoked by using the following command:
+```bash
+node index.js
+```
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
 This application is covered by the MIT license. 
+## Credits
+* [Inquirer.js](https://www.npmjs.com/package/inquirer)
+
 ## Contributing
 Eddie Ibarra
 <br />
