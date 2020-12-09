@@ -19,6 +19,21 @@ function promptUser(){
             message: "Write a brief description of your project: "
         },
         {
+            type: 'input',
+            message: 'How do you install it?',
+            name: 'install',
+        },
+        {
+            type: 'input',
+            message: 'How do you use it?',
+            name: 'usage',
+        },
+        {
+            type: 'input',
+            message: 'How do you test it?',
+            name: 'test',
+        },
+        {
             type: "input",
             name: "usage",
             message: "What is this project used for?"
@@ -81,7 +96,15 @@ function generateReadme(answers) {
 ## Table of Contents
 - [Description](#description)
 - [License](#license)
+- [Installation](#Installation)
 - [Contributing](#contributing)
+- [Tests](#Tests)
+## Installation
+${answers.install}
+## Usage
+${answers.usage}
+## Tests
+${answers.test}
 ## License
 ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
 <br />
