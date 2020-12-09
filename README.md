@@ -30,6 +30,6 @@ Eddie Ibarra
 ✉Email me with any questions: eddieibarra43@gmail.com<br /><br />
 
 
-CLICK [HERE] TO WATCH DEMO(https://drive.google.com/file/d/1VQ7-lpq3DhJYLN4Z7_wIEMR4mzLrjgFz/view?usp=sharing)
+
 <a href="https://drive.google.com/file/d/1VQ7-lpq3DhJYLN4Z7_wIEMR4mzLrjgFz/view?usp=sharing">Click here to view</a>
     
